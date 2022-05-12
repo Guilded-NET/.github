@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](https://raw.githubusercontent.com/Guilded-NET/Guilded.NET/early-access/assets/Banner.png)](https://github.com/Guilded-NET/Guilded.NET)
+[![Banner](https://raw.githubusercontent.com/Guilded-NET/.github/main/profile/Banner.png)](https://github.com/Guilded-NET/)
 
 # 🟡 Guilded.NET
 </div>
